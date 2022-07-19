@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Projeto de testes E2E",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Fernando Hessel",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "cypress": "^9.7.0",
+    "cypress-real-events": "^1.7.0",
+    "moment": "^2.29.4",
+    "pg": "^8.7.3",
+    "underscore": "^1.13.4"
+  }
+}

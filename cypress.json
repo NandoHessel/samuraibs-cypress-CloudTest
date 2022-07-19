@@ -1,0 +1,14 @@
+{
+    "baseUrl": "https://samuraibs-web-fernandohessel.herokuapp.com",
+    "apiServer": "https://samuraibs-api-fernandohessel.herokuapp.com",
+    "viewportWidth": 1440,
+    "viewportHeight": 900,
+    "defaultCommandTimeout": 30000,
+    "dbConfig": {
+        "host": "castor.db.elephantsql.com",
+        "user": "zuojczgs",
+        "password": "rMAfeB1jfuq5t2qE_Y2GQ46FAiAzUUuT",
+        "database": "zuojczgs",
+        "port": 5432
+    }
+}
